@@ -1,0 +1,2 @@
+time:2021-04-26 14:23:25,359--INFO:root:第11条测试用例通过,请求参数是{"mobile_phone":"13969930549"}--test_register.py---31
+time:2021-04-26 14:23:25,359--INFO:root:第11条测试用例通过,请求参数是{"mobile_phone":"13969930549"}--test_register.py---31

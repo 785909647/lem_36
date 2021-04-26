@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_invest.py:45 第2条测试用例通过,请求参数是{"member_id": null, "amount": "1"}

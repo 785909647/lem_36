@@ -1,0 +1,22 @@
+test_sql:
+  host: 8.210.161.110
+  port: 3306
+  user: root
+  password: Exchange_PWD123
+  database: alpha_account
+
+yield_sql:
+  host: 8.210.161.110
+  port: 3306
+  user: root
+  password: Exchange_PWD123
+  database: alpha_order
+
+logs:
+  -
+    logger_name: my_log
+    level: DEBUG
+    sh_level: info
+    fh_level: debug
+    log_file: log.log
+

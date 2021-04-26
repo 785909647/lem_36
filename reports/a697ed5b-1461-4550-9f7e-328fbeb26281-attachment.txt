@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_register.py:31 第3条测试用例通过,请求参数是{"mobile_phone":"my_phone_data","pwd": "123456789"}

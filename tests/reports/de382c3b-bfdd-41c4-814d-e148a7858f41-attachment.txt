@@ -1,0 +1,2 @@
+time:2021-04-26 10:50:01,715--INFO:root:第13条测试用例通过,请求参数是{'member_id': 'error_id', 'amount': '100'}--test_info.py---40
+time:2021-04-26 10:50:01,715--INFO:root:第13条测试用例通过,请求参数是{'member_id': 'error_id', 'amount': '100'}--test_info.py---40

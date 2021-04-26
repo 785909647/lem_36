@@ -1,0 +1,2 @@
+time:2021-04-26 14:22:51,623--INFO:root:第9条测试用例通过,请求参数是{'loan_id': '2052534', 'approved_or_not': 'true'}--test_audit.py---40
+time:2021-04-26 14:22:51,623--INFO:root:第9条测试用例通过,请求参数是{'loan_id': '2052534', 'approved_or_not': 'true'}--test_audit.py---40

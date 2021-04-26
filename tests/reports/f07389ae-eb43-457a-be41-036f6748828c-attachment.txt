@@ -1,0 +1,2 @@
+time:2021-04-26 10:49:52,241--INFO:root:第3条测试用例通过,请求参数是{"loan_id":null,"approved_or_not":"true"}--test_audit.py---40
+time:2021-04-26 10:49:52,241--INFO:root:第3条测试用例通过,请求参数是{"loan_id":null,"approved_or_not":"true"}--test_audit.py---40

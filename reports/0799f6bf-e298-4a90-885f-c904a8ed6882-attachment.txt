@@ -1,0 +1,2 @@
+time:2021-04-26 11:52:06,141--INFO:root:第4条测试用例通过,请求参数是{"member_id": "1", "amount": "1"}--test_invest.py---45
+time:2021-04-26 11:52:06,141--INFO:root:第4条测试用例通过,请求参数是{"member_id": "1", "amount": "1"}--test_invest.py---45

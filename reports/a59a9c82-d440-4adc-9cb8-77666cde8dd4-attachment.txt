@@ -1,0 +1,2 @@
+time:2021-04-26 11:52:19,877--INFO:root:第15条测试用例通过,请求参数是{"mobile_phone":"13302973514","pwd": "12345678979","type":0}--test_register.py---31
+time:2021-04-26 11:52:19,877--INFO:root:第15条测试用例通过,请求参数是{"mobile_phone":"13302973514","pwd": "12345678979","type":0}--test_register.py---31

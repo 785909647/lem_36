@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_login.py:26 第5条测试用例通过,请求参数是{"mobile_phone": "13302973514","pwd": "123456790"}

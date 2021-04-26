@@ -1,0 +1,2 @@
+time:2021-04-26 10:50:10,745--INFO:root:第4条测试用例通过,请求参数是{"mobile_phone": "13302973514","pwd":None}--test_login.py---26
+time:2021-04-26 10:50:10,745--INFO:root:第4条测试用例通过,请求参数是{"mobile_phone": "13302973514","pwd":None}--test_login.py---26

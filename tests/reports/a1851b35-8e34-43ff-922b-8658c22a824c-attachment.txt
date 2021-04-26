@@ -1,0 +1,1 @@
+INFO     root:test_ret.py:178 第14条测试用例通过,请求参数是{'member_id': '1000337265', 'loan_id': '2064899', 'amount': 100}

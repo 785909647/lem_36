@@ -1,0 +1,20 @@
+url: http://api.lemonban.com/futureloan/
+
+
+
+cases_sheet:
+  - register
+  - login
+  - recharge
+  - withdraw
+
+cases_data:
+  user_name: '13302973514'
+  pwd: '123456789'
+  magic_phone: 'generate_new_phone'
+  id: '1000337265'
+  magic_note_id: 'get_note_id'
+  reg_name: '小柠檬'
+  root_name: '13302973515'
+  root_pwd: '123456789'
+

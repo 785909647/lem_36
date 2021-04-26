@@ -1,0 +1,2 @@
+time:2021-04-26 11:52:05,897--INFO:root:第3条测试用例通过,请求参数是{"member_id": "fsdfsdf", "amount": "1"}--test_invest.py---45
+time:2021-04-26 11:52:05,897--INFO:root:第3条测试用例通过,请求参数是{"member_id": "fsdfsdf", "amount": "1"}--test_invest.py---45

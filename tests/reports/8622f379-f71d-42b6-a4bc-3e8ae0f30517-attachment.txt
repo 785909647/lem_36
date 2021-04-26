@@ -1,0 +1,1 @@
+INFO     root:test_login.py:26 第3条测试用例通过,请求参数是{"mobile_phone": None,"pwd": "123456789"}

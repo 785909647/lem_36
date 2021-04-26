@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_audit.py:40 第10条测试用例通过,请求参数是{'loan_id': '2037397', 'approved_or_not': 'true'}

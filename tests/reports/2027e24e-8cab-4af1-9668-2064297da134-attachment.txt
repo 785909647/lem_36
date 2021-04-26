@@ -1,0 +1,1 @@
+INFO     root:test_info.py:40 第3条测试用例通过,请求参数是{'member_id': '1000337265', 'amount': '-1'}

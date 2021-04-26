@@ -1,0 +1,2 @@
+time:2021-04-26 10:50:26,461--INFO:root:第11条测试用例通过,请求参数是{'member_id': '1000337265', 'loan_id': '2064551', 'amount': None}--test_ret.py---180
+time:2021-04-26 10:50:26,461--INFO:root:第11条测试用例通过,请求参数是{'member_id': '1000337265', 'loan_id': '2064551', 'amount': None}--test_ret.py---180
