@@ -1,0 +1,3 @@
+data/
+conf/
+.pytest_cache/
